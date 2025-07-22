@@ -14,6 +14,7 @@ Each task demonstrates practical implementation of fundamental algorithms, end-t
 
 ```
 AhmedMaher_Codveda_MLIntern/
+├── Datasets/
 ├── Task1_DataPreprocessing/
 │   └── (Basic) Task 1 Data Preprocessing for  Machine Learning.ipynb
 │   └── README.md
@@ -43,21 +44,21 @@ Each task folder contains:
 |------|-------------|-----------|
 | Task 1 | Data Preprocessing for ML | Pandas, NumPy, Sklearn |
 | Task 2 | Linear Regression for Regression | Scikit-learn, Seaborn |
+| Task 3 | K-Nearest Neighbors Classification | Scikit-learn, matplotlib |
 
 ###  Intermediate ML
 | Task | Description | Key Tools |
 |------|-------------|-----------|
-| Task 1 | K-Nearest Neighbors Classification | Scikit-learn, matplotlib |
-| Task 2 | Logistic Regression for Binary Classification | Scikit-learn, pandas |
-| Task 3 | Decision Tree for Classification | Scikit-learn, Graphviz |
+| Task 1 | Logistic Regression for Binary Classification | Scikit-learn, pandas |
+| Task 2 | Decision Tree for Classification | Scikit-learn, matplotlib |
+| Task 3 | K-Means Clustering | Scikit-learn, seaborn |
 
 ###  Advanced Concepts
 | Task | Description | Key Tools |
 |------|-------------|-----------|
-| Task 1 | K-Means Clustering | Scikit-learn, seaborn |
-| Task 2 | Random Forest Classifier | Scikit-learn |
-| Task 3 | Support Vector Machine | Scikit-learn |
-| Task 4 | Neural Networks for Image Classification | TensorFlow, Keras, NumPy |
+| Task 1 | Random Forest Classifier | Scikit-learn |
+| Task 2 | Support Vector Machine | Scikit-learn |
+| Task 3 | Neural Networks for Image Classification | TensorFlow, NumPy |
 
 ---
 
@@ -86,7 +87,7 @@ Each task folder contains:
 
 ## 📚 Datasets
 
-All datasets used throughout the internship are organized in the `datasets` directory. These datasets were either provided by **Codveda Technologies** or sourced from trusted open-source platforms for educational and research purposes. Each task includes a dedicated dataset aligned with its objective, ensuring practical, hands-on machine learning experience.
+All datasets used throughout the internship are organized in the `Datasets` directory. These datasets were either provided by **Codveda Technologies** or sourced from trusted open-source platforms for educational and research purposes. Each task includes a dedicated dataset aligned with its objective, ensuring practical, hands-on machine learning experience.
 
 
 ---
