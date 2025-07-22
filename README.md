@@ -50,7 +50,7 @@ Each task folder contains:
 | Task | Description | Key Tools |
 |------|-------------|-----------|
 | Task 1 | Logistic Regression for Binary Classification | Scikit-learn, pandas |
-| Task 2 | Decision Tree for Classification | Scikit-learn, Graphviz |
+| Task 2 | Decision Tree for Classification | Scikit-learn, matplotlib |
 | Task 3 | K-Means Clustering | Scikit-learn, seaborn |
 
 ###  Advanced Concepts
@@ -58,7 +58,7 @@ Each task folder contains:
 |------|-------------|-----------|
 | Task 1 | Random Forest Classifier | Scikit-learn |
 | Task 2 | Support Vector Machine | Scikit-learn |
-| Task 3 | Neural Networks for Image Classification | TensorFlow, Keras, NumPy |
+| Task 3 | Neural Networks for Image Classification | TensorFlow, NumPy |
 
 ---
 
